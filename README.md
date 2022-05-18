@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saketisofficial05@gmail.com**
 
-- 📄 My Likedin : [https://www.linkedin.com/in/saket-kulkarni-b17036236/](https://www.linkedin.com/in/saket-kulkarni-b17036236/)
+- 📄 My Linkedin : [https://www.linkedin.com/in/saket-kulkarni-b17036236/](https://www.linkedin.com/in/saket-kulkarni-b17036236/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
