@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strangecoder1729&label=Profile%20views&color=0e75b6&style=flat" alt="strangecoder1729" /> </p>
 
-- 🌱 I’m currently learning **Python, C, C++, Dart, Data Science and Machine Learning**
+- 🌱 I’m currently learning **Python, C, C++, Dart, Data Science and Machine Learning, Business**
 
 - 👯 I’m looking to collaborate on **innovative projects**
 
