@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saket-kulkarni-b17036236/](https://www.linkedin.com/in/saket-kulkarni-b17036236/)
 
-- ⚡ Fun fact **AI ain't gonna replace human beings**
+- ⚡ Fun fact : **AI ain't gonna replace human beings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
